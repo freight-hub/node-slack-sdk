@@ -1,6 +1,6 @@
 {
   "name": "@freighthub/node-slack-sdk",
-  "version": "4.4.2",
+  "version": "4.4.3",
   "description": "Slack Developer Kit - official clients for the Web API, RTM API, and Incoming Webhooks",
   "author": "Slack Technologies, Inc.",
   "license": "MIT",
